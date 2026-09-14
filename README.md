@@ -1,5 +1,5 @@
 <div align="center">
-<img src="header.jpg" width="100%" alt="header" />
+<img src="gojo.jpg" width="100%" alt="header" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 [![behance](https://img.shields.io/badge/Behance-F8BBD0?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/mikaelabalasoto)
 [![instagram](https://img.shields.io/badge/Instagram-E1BEE7?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/li4bilit)
 [![facebook](https://img.shields.io/badge/Facebook-FFC0CB?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mik.balasoto)
-[![email](https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balasotomikaela@gmail.com)
+[![email](https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 </div>
 
@@ -33,6 +33,16 @@ hey, i'm mikee! just someone who likes turning random ideas into cool little pro
 when i'm not staring at my screen, i'm probably taking film photos outside.
 
 still figuring it all out, but we move.
+
+<br>
+
+## now playing 🎧
+
+<div align="center">
+
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=9i3y0e5n76a0h8ee2w6c62ao4&theme=compact&background_color=0d0d0d&bar_color=ff6fa5&bar_color_cover=true&cover_image=true)](https://open.spotify.com)
+
+</div>
 
 <br>
 
