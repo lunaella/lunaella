@@ -20,7 +20,7 @@
 [![behance](https://img.shields.io/badge/Behance-F8BBD0?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/mikaelabalasoto)
 [![instagram](https://img.shields.io/badge/Instagram-E1BEE7?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/li4bilit)
 [![facebook](https://img.shields.io/badge/Facebook-FFC0CB?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mik.balasoto)
-[![email](https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![email](https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balasotomikaela@gmail.com)
 
 </div>
 
