@@ -1,5 +1,5 @@
 <div align="center">
-<img src="gojo.jpg" width="100%" alt="header" />
+<img src="header.jpg" width="100%" alt="header" />
 </div>
 
 <div align="center">
