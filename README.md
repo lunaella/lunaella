@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 
+# ˚.⋆꒰১ lunaella ໒꒱⋆.˚
 
 ### Full-Stack · AI Engineer · Graphic Designer
 
@@ -8,7 +8,7 @@
 
 <br>
 
-## 🎀 Connect with Me
+## let's connect! 𓏲 ๋࣭ ࣪ ˖🎐
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 <br>
 
-## 🌸 About Me
+## ⋆˚✿ about 🍒𐙚⋆˚
 
 hey, i'm mikee! just someone who likes turning random ideas into cool little projects. i'm currently into embedded programming and ai, learning as i go, breaking things occasionally, and somehow making them work again.
 
@@ -33,7 +33,7 @@ still figuring it all out, but we move.
 
 <br>
 
-## 🧸 Tech Stack
+## tech stack 🪽་༘࿐
 
 <div align="center">
 
@@ -61,7 +61,7 @@ still figuring it all out, but we move.
 
 <br>
 
-## 🎀 GitHub Analytics
+## analytics 𖦹🍀୭˚ᵎ｡𖦹°‧
 
 <div align="center">
 
@@ -72,7 +72,7 @@ still figuring it all out, but we move.
 
 <br>
 
-## 🌷 Contribution Graph
+## 𝄞⨾💿 contribution ✮˚.⋆
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lunaella&color=ff6fa5&line=ff6fa5&point=ff9ecd&area=true&hide_border=true" width="100%"/>
@@ -80,19 +80,17 @@ still figuring it all out, but we move.
 
 <br>
 
-## 💌 Random Dev Quote
+## a letter from snoopy ⋆⭒˚.⋆ ݁💌
 
 <div align="center">
 
 > *"If you think about something at three o'clock in the morning and then again at noon the next day, you get different answers."*
->
-> — snoopy
 
 </div>
 
 <br>
 
-## 🎀 Featured Projects
+## featured 🪼⋆.ೃ࿔*:･
 
 <div align="center">
 
