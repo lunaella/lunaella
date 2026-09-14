@@ -6,7 +6,7 @@
 
 # ˚.⋆꒰১ lunaella ໒꒱⋆.˚
 
-### Full-Stack · AI Engineer · Graphic Designer
+### Full-Stack · AI/ML Engineer & Researcher
 
 </div>
 
