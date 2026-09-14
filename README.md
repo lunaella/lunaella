@@ -48,7 +48,7 @@ still figuring it all out, but we move.
 <img src="https://img.shields.io/badge/CSS3-FF9ECD?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F8BBD0?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-E1BEE7?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-FFC0CB?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-FFC0CB?style=for-the-badge&logo=adobe&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/PyTorch-FFD1DC?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -65,7 +65,6 @@ still figuring it all out, but we move.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lunaella&show_icons=true&theme=transparent&hide_border=true&title_color=ff6fa5&icon_color=ff6fa5&text_color=d9679c&ring_color=ff9ecd"/>
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=lunaella&theme=transparent&hide_border=true&ring=ff9ecd&fire=ff6fa5&currStreakLabel=ff6fa5&sideLabels=d9679c&currStreakNum=d9679c&sideNums=d9679c&dates=d9679c"/>
 
 </div>
@@ -75,7 +74,7 @@ still figuring it all out, but we move.
 ## 𝄞⨾💿 contribution ✮˚.⋆
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lunaella&color=ff6fa5&line=ff6fa5&point=ff9ecd&area=true&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/ff6fa5/lunaella" alt="lunaella's contribution chart" width="100%"/>
 </div>
 
 <br>
@@ -94,19 +93,17 @@ still figuring it all out, but we move.
 
 <div align="center">
 
-<a href="https://github.com/lunaella/hospital-web-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lunaella&repo=hospital-web-dashboard&theme=transparent&hide_border=true&title_color=ff6fa5&text_color=d9679c&icon_color=ff6fa5" />
-</a>
-<a href="https://github.com/lunaella/hand-painting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lunaella&repo=hand-painting&theme=transparent&hide_border=true&title_color=ff6fa5&text_color=d9679c&icon_color=ff6fa5" />
-</a>
-<br>
-<a href="https://github.com/lunaella/blkchain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lunaella&repo=blkchain&theme=transparent&hide_border=true&title_color=ff6fa5&text_color=d9679c&icon_color=ff6fa5" />
-</a>
-<a href="https://github.com/lunaella/lunaella.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lunaella&repo=lunaella.github.io&theme=transparent&hide_border=true&title_color=ff6fa5&text_color=d9679c&icon_color=ff6fa5" />
-</a>
+**[hospital-web-dashboard](https://github.com/lunaella/hospital-web-dashboard)** — ResQ blood donation admin dashboard
+<br>![stars](https://img.shields.io/github/stars/lunaella/hospital-web-dashboard?style=flat-square&color=ff9ecd&labelColor=1a1a1a) ![top language](https://img.shields.io/github/languages/top/lunaella/hospital-web-dashboard?style=flat-square&color=ff6fa5&labelColor=1a1a1a)
+
+**[hand-painting](https://github.com/lunaella/hand-painting)** — draw in the air using hand gestures
+<br>![stars](https://img.shields.io/github/stars/lunaella/hand-painting?style=flat-square&color=ff9ecd&labelColor=1a1a1a) ![top language](https://img.shields.io/github/languages/top/lunaella/hand-painting?style=flat-square&color=ff6fa5&labelColor=1a1a1a)
+
+**[blkchain](https://github.com/lunaella/blkchain)** — blockchain fundamentals in Java
+<br>![stars](https://img.shields.io/github/stars/lunaella/blkchain?style=flat-square&color=ff9ecd&labelColor=1a1a1a) ![top language](https://img.shields.io/github/languages/top/lunaella/blkchain?style=flat-square&color=ff6fa5&labelColor=1a1a1a)
+
+**[lunaella.github.io](https://github.com/lunaella/lunaella.github.io)** — personal site
+<br>![stars](https://img.shields.io/github/stars/lunaella/lunaella.github.io?style=flat-square&color=ff9ecd&labelColor=1a1a1a) ![top language](https://img.shields.io/github/languages/top/lunaella/lunaella.github.io?style=flat-square&color=ff6fa5&labelColor=1a1a1a)
 
 </div>
 
