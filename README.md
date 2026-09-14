@@ -1,4 +1,8 @@
 <div align="center">
+<img src="gojo.jpg" width="100%" alt="header" />
+</div>
+
+<div align="center">
 
 # ˚.⋆꒰১ lunaella ໒꒱⋆.˚
 
@@ -12,7 +16,6 @@
 
 <div align="center">
 
-[![portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lunaella.github.io)
 [![linkedin](https://img.shields.io/badge/LinkedIn-FF9ECD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaela-denise-balasoto-82a503144/)
 [![behance](https://img.shields.io/badge/Behance-F8BBD0?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/mikaelabalasoto)
 [![instagram](https://img.shields.io/badge/Instagram-E1BEE7?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/li4bilit)
@@ -102,8 +105,8 @@ still figuring it all out, but we move.
 **[blkchain](https://github.com/lunaella/blkchain)** — blockchain fundamentals in Java
 <br>![stars](https://img.shields.io/github/stars/lunaella/blkchain?style=flat-square&color=ff9ecd&labelColor=1a1a1a) ![top language](https://img.shields.io/github/languages/top/lunaella/blkchain?style=flat-square&color=ff6fa5&labelColor=1a1a1a)
 
-**[lunaella.github.io](https://github.com/lunaella/lunaella.github.io)** — personal site
-<br>![stars](https://img.shields.io/github/stars/lunaella/lunaella.github.io?style=flat-square&color=ff9ecd&labelColor=1a1a1a) ![top language](https://img.shields.io/github/languages/top/lunaella/lunaella.github.io?style=flat-square&color=ff6fa5&labelColor=1a1a1a)
+**[osacha](https://github.com/lunaella/osacha)** — SwiftUI ordering app for a matcha café
+<br>![stars](https://img.shields.io/github/stars/lunaella/osacha?style=flat-square&color=ff9ecd&labelColor=1a1a1a) ![top language](https://img.shields.io/github/languages/top/lunaella/osacha?style=flat-square&color=ff6fa5&labelColor=1a1a1a)
 
 </div>
 
