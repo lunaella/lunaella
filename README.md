@@ -36,7 +36,7 @@ still figuring it all out, but we move.
 
 <br>
 
-## now playing 🎧
+## now playing ♫₊˚.🎧
 
 <div align="center">
 
