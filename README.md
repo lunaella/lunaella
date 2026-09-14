@@ -1,5 +1,5 @@
 <div align="center">
-<img src="header.jpg" width="100%" alt="header" />
+<img src="gojo.jpg" width="100%" alt="header" />
 </div>
 
 <div align="center">
@@ -36,11 +36,11 @@ still figuring it all out, but we move.
 
 <br>
 
-## now playing ♫₊˚.🎧
+## now playing 🎧
 
 <div align="center">
 
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=9i3y0e5n76a0h8ee2w6c62ao4&theme=compact&background_color=0d0d0d&bar_color=ff6fa5&bar_color_cover=true&cover_image=true)](https://open.spotify.com)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9i3y0e5n76a0h8ee2w6c62ao4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=f599dc&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
